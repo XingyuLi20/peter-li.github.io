@@ -14,6 +14,7 @@ body {
   }
   
   a {
+    text-decoration: none;
     color: #34b7a7;
   }
   
@@ -149,6 +150,7 @@ body {
   # Navigation Menu
   --------------------------------------------------------------*/
   /* Desktop Navigation */
+
   .nav-menu ul {
     margin: 0;
     padding: 0;
