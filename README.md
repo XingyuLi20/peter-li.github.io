@@ -1,2 +1,2 @@
-# Peter-Li
-Peter Li's personal website
+# Peter Li
+Peter's personal website
